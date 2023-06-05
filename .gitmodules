@@ -8,3 +8,84 @@
 [submodule "database/doris"]
 	path = database/doris
 	url = https://github.com/apache/doris
+[submodule "database/duckdb"]
+	path = database/duckdb
+	url = https://github.com/duckdb/duckdb
+[submodule "database/impala"]
+	path = database/impala
+	url = https://github.com/apache/impala
+[submodule "database/presto"]
+	path = database/presto
+	url = https://github.com/prestodb/presto
+[submodule "database/ByConity"]
+	path = database/ByConity
+	url = https://github.com/ByConity/ByConity
+[submodule "database/databend"]
+	path = database/databend
+	url = https://github.com/datafuselabs/databend
+[submodule "database/sqlite"]
+	path = database/sqlite
+	url = https://github.com/sqlite/sqlite
+[submodule "database/postgres"]
+	path = database/postgres
+	url = https://github.com/postgres/postgres
+[submodule "database/greenplum"]
+	path = database/greenplum
+	url = https://github.com/greenplum-db/gpdb
+[submodule "database/mariadb"]
+	path = database/mariadb
+	url = https://github.com/MariaDB/server
+[submodule "database/cockroach"]
+	path = database/cockroach
+	url = https://github.com/cockroachdb/cockroach
+[submodule "database/foundationdb"]
+	path = database/foundationdb
+	url = https://github.com/apple/foundationdb
+[submodule "database/tidb"]
+	path = database/tidb
+	url = https://github.com/pingcap/tidb
+[submodule "database/tikv"]
+	path = database/tikv
+	url = https://github.com/tikv/tikv
+[submodule "database/tiflash"]
+	path = database/tiflash
+	url = https://github.com/pingcap/tiflash
+[submodule "database/yugabyte-db"]
+	path = database/yugabyte-db
+	url = https://github.com/yugabyte/yugabyte-db
+[submodule "database/leveldb"]
+	path = database/leveldb
+	url = https://github.com/google/leveldb
+[submodule "database/rocksdb"]
+	path = database/rocksdb
+	url = https://github.com/facebook/rocksdb
+[submodule "database/risingwave"]
+	path = database/risingwave
+	url = https://github.com/singularity-data/risingwave
+[submodule "database/kylin"]
+	path = database/kylin
+	url = https://github.com/apache/kylin
+[submodule "database/risinglight"]
+	path = database/risinglight
+	url = https://github.com/risinglightdb/risinglight
+[submodule "database/materialize"]
+	path = database/materialize
+	url = https://github.com/MaterializeInc/materialize
+[submodule "database/noisepage"]
+	path = database/noisepage
+	url = https://github.com/cmu-db/noisepage
+[submodule "database/bustub"]
+	path = database/bustub
+	url = https://github.com/cmu-db/bustub
+[submodule "database/voltdb"]
+	path = database/voltdb
+	url = https://github.com/VoltDB/voltdb
+[submodule "database/velox"]
+	path = database/velox
+	url = https://github.com/facebookincubator/velox
+[submodule "database/calcite"]
+	path = database/calcite
+	url = https://github.com/apache/calcite
+[submodule "database/gporca"]
+	path = database/gporca
+	url = https://github.com/greenplum-db/gporca
