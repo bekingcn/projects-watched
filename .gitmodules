@@ -5,3 +5,6 @@
 	path = database/ClickHouse
 	url = https://github.com/ClickHouse/ClickHouse
 
+[submodule "database/doris"]
+	path = database/doris
+	url = https://github.com/apache/doris
