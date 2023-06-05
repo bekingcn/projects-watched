@@ -1,0 +1,3 @@
+[submodule "learning/awesome-database-learning"]
+	path = learning/awesome-database-learning
+	url = https://github.com/pingcap/awesome-database-learning
